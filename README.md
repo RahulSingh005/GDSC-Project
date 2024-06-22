@@ -1,1 +1,1 @@
-# GDSC-Project (Software)
+# GDSC-Project (AI/ML)
