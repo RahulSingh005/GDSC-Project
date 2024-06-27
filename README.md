@@ -1,1 +1,1 @@
-# GDSC-Project (AI/ML)
+# Handless Chess (AI/ML)
